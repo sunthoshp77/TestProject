@@ -6,5 +6,7 @@ public class TestClass {
 	{
 		System.out.println("this is the first statement");
 		System.out.println("this is the second statement");
+		System.out.println("this is the second statement");
+		
 	}
 }
